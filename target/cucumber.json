@@ -1,0 +1,40 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Verify user can login successfully with valid credential",
+        "description": "",
+        "id": "this-feature-is-for-login-functionality;verify-user-can-login-successfully-with-valid-credential",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7038066099,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Launch \"\u003cURL\u003e\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u003cURL\u003e",
+                  "offset": 8
+                }
+              ],
+              "location": "Logina.launch(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "THis feature is for login functionality",
+    "description": "",
+    "id": "this-feature-is-for-login-functionality",
+    "keyword": "Feature",
+    "uri": "Logina.feature"
+  }
+]
