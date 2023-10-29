@@ -1,6 +1,6 @@
 package pageLocator;
 
-public class LoginLocator extends BaseClassnextechitc2{
+public class LoginLocator extends BaseClass {
 
   public LoginLocator (){
 
