@@ -1,5 +1,5 @@
 package pageLocator;
 
-public class HomePageLocator extends BaseClassnextechitc2{
+public class HomePageLocator extends BaseClass{
 
 }
