@@ -1,5 +1,5 @@
 package pageLocator;
 
-public class HomePageLocator BaseClass{
+public class HomePageLocator extends BaseClass{
 
 }
