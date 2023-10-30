@@ -1,5 +1,7 @@
 package pageLocator;
 
-public class HomePageLocator {
+import utility.BaseClass;
+
+public class HomePageLocator extends BaseClass{
 
 }
