@@ -1,5 +1,5 @@
 package pageAction;
 
-public class LoginPageAction {
+public class LoginPageAction exctends BaseClass{
 
 }
