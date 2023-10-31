@@ -1,5 +1,5 @@
 package pageAction;
 
-public class HomePageAction {
+public class HomePageAction extends BaseClass{
 
 }
