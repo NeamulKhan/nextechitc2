@@ -6,11 +6,5 @@ import utility.BaseClass;
 
 public class HomePageLocator extends BaseClass{
 
-  public HomePageLocator(){
-	  
-	  PageFactory.initElements( driver,this);
-
-    
-
-}
+ 
 }
