@@ -1,5 +1,7 @@
 package pageLocator;
 
-public class CartPageLocator {
+public class CartPageLocator extends BaseClass{
+
+
 
 }
