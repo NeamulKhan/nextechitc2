@@ -6,11 +6,6 @@ import utility.BaseClass;
 
 public class LoginLocator extends BaseClass{
 	
-	public LoginLocator () {
-		
-		PageFactory.initElements(driver, this);
-		
-		
-	}
+	
 
 }
